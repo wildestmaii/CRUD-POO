@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Cadastro de Capivaras</title>
+  </head>
+  <body>
+    <div id="form-container">
+      <h1>Capivaras</h1>
+      <div id="campos">
+        <h3>Cadastro</h3>
+        <form action="{{ url_for('inserir_capivara') }}" method="post">
+          <label for="nome">Nome:</label>
+          <input type="text" id="nome" name="nome">
+          
+          <input type="submit" value="Cadastrar">
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
