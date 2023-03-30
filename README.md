@@ -1,13 +1,5 @@
 # CRUD Orientado a Objetos
 
-# Colaboradores
-<table>
-  <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/wildestmaii/"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQHNUS2ujDGLwg/profile-displayphoto-shrink_800_800/0/1659726701828?e=1671062400&v=beta&t=ENdrOV4vuJuxTikDchaBfbse_mXUHmXl45QlWKM15j0" width="100px;" alt=""/><br /><sub><b>Maiara Meneses</b></sub></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/queziacssilva/"><img src="https://media.licdn.com/dms/image/C4E03AQEIDBUQHKvnIQ/profile-displayphoto-shrink_400_400/0/1653488356920?e=1685577600&v=beta&t=wVJMnRqlaYBPN82b3SsussxNZ2_4tkdVjr-nur0l4eI" width="100px;" alt=""/><br /><sub><b>Quézia Cassiano</b></sub></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/everton-gabriel-088474176/"><img src="https://media.licdn.com/dms/image/C4D03AQE8oRP-FAK1lw/profile-displayphoto-shrink_400_400/0/1650370407786?e=1685577600&v=beta&t=pLHPAo_EU0Xel07plBMJTC0azVxi6eD5l814G930Sow" width="100px;" alt=""/><br /><sub><b>Everton Gabriel</b></sub></a></td>
-  </tr>
-
 # Atividade avaliativa
 
 - Objetivo:
@@ -57,3 +49,12 @@ Veja o código exemplo mostrado em sala.
 - Construção e apresentação do projeto da atividade avaliativa.
 - Desempenho em sala de aula (realização dos outros exercícios);
 - Frequência.
+
+
+# Colaboradores
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/wildestmaii/"><img src="https://avatars.githubusercontent.com/u/52250674?v=4" width="100px;" alt=""/><br /><sub><b>Maiara Meneses</b></sub></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/queziacssilva/"><img src="https://media.licdn.com/dms/image/C4E03AQEIDBUQHKvnIQ/profile-displayphoto-shrink_400_400/0/1653488356920?e=1685577600&v=beta&t=wVJMnRqlaYBPN82b3SsussxNZ2_4tkdVjr-nur0l4eI" width="100px;" alt=""/><br /><sub><b>Quézia Cassiano</b></sub></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/everton-gabriel-088474176/"><img src="https://media.licdn.com/dms/image/C4D03AQE8oRP-FAK1lw/profile-displayphoto-shrink_400_400/0/1650370407786?e=1685577600&v=beta&t=pLHPAo_EU0Xel07plBMJTC0azVxi6eD5l814G930Sow" width="100px;" alt=""/><br /><sub><b>Everton Gabriel</b></sub></a></td>
+  </tr>
